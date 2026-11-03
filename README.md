@@ -1,4 +1,4 @@
-##<h1 align="center">⚡ J U L E S ⚡</h1>
+<h1 align="center">⚡ J U L E S ⚡</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Étudiant+en+BTS+CIEL;Passionné+d'informatique;Réseaux+%7C+C%2B%2B+%7C+Linux;Always+learning+%F0%9F%9A%80" />
 </p>
